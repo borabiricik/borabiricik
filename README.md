@@ -6,7 +6,7 @@ Full-Stack Web Developer
 
 * 🌍  I'm based in Turkey
 * ✉️  You can contact me at [borabiriciksoftware@gmail.com](mailto:borabiriciksoftware@gmail.com)
-* 🚀  I'm currently working on [wakeflow](http://wakeflow.io)
+* 🚀  I'm currently working on ??
 * 🧠  I'm learning Everything I found 😂
 
 <a href="https://www.twitter.com/biricik_js" target="_blank" rel="noreferrer"><img
